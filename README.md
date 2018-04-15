@@ -6,7 +6,7 @@
 * [Maven 3](https://maven.apache.org/download.cgi)
 
 
-## Ejectutar app (o desplegar WAR en cualquier servidor J2EE)
+## Ejecutar app (o desplegar WAR en cualquier servidor J2EE)
 ```
 mvn jetty:run-war
 ```
@@ -22,6 +22,6 @@ db.SiteResult.find({});
 ```
 * Según la documentación no puedo utilizar ningún framewok adicional. Por este motivo no hay logs ni validaciones de tipo @NotNull.
 
-## Author
+## Autor
 
 Xavier Giménez
