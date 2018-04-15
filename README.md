@@ -12,7 +12,7 @@ mvn jetty:run-war
 ```
 
 
-## Consideraciones
+## Notas
 
 * Como BD utiliza un MongoDB embebido el puerto 37700 y el nombre de la BD es mfdb. Para verificar los resultados:
 ```
